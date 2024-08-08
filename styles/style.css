@@ -198,3 +198,52 @@ nav li a{
     text-align: left;
 
 }
+#resume{
+    padding-top: 1300px;
+    display: flex;
+    gap: 15px;
+    justify-content: center;
+    align-items: center;
+}
+
+.res-edu{
+    margin-left: 80px;
+    max-width: 400px;
+}
+.res-exp{
+   margin-left: 10px;
+   margin-top: 30px;
+    max-width: 400px;
+
+}
+.resume-edu{
+    font-size: 30px;
+    color:#474747;
+    font-family: Open Sans;
+}
+.resume-exp{
+    font-size: 30px;
+    color:#474747;
+    font-family: Open Sans;
+}
+.resume-title{
+    font-size: 25px;
+    color:#474747;
+    font-family: Open Sans;
+}
+.resume-subtitle{
+    font-size: 20px;
+    color: #757575;
+    font-family: Open Sans;
+}
+.resume-para{
+    font-size: 16px;
+    color: #757575;
+    font-family: Open Sans;
+}
+#btn-download{
+  text-align: center;
+    align-items: center;
+    padding: 50px;
+
+}
