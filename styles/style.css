@@ -212,7 +212,7 @@ nav li a{
 }
 .res-exp{
    margin-left: 10px;
-   margin-top: 30px;
+   margin-top: 35px;
     max-width: 400px;
 
 }
@@ -246,4 +246,46 @@ nav li a{
     align-items: center;
     padding: 50px;
 
+}
+footer{
+    padding:130px 230px;
+    display: flex;
+    gap:100px;
+}
+.footer-col1{
+    width: 50%;
+    
+}
+.footer-col2{
+    width: 50%;
+}
+.section-title{
+    font-size: 30px;
+}
+.coltitle{
+    font-size:30px;
+}
+ footer input[type="text"], footer input[type="email"]{
+    width: 100%;
+    height: 55px;
+    display: block;
+    padding: 10px 20px;
+    margin-bottom: 25px;
+    font-size: 16px;
+    border: none;
+    color:#757575;
+    border-radius: 5px;
+    background-color: white;
+}
+footer textarea{
+width: 100%;
+height: 150px;
+display: block;
+padding: 10px 20px;
+margin-bottom: 25px;
+font-size: 16px;
+border: none;
+color:#757575;
+border-radius: 5px;
+background-color: white;
 }
